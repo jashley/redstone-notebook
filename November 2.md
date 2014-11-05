@@ -29,5 +29,13 @@ team, how did you share the labor?**
 None outside of class.
 
 ## Post-critique summary
+Hayden provided feedback on where to focus my endeavors. He suggested I keep focused
+on the IR and worry about Minecraft integration later. He also mentioned that this
+seems like a good job for a custom mod (modification) of Minecraft, and to look into
+what others have already done.
 
 ## Post-critique reflection
+This feedback is extremely helpful. I hadn't thought to look into other modders and what they have done
+in the space of redstone, so that is something to look into. Also, this being a Minecraft mod makes
+perfect sense, but never crossed my mind. I will do this, but after I have a functioning java applet
+for building circuits, which is the most important aspect.
