@@ -2,12 +2,8 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+Not much to say here. I got caught up in reviewing for a midterm and other homework, so nothing done outside of class.
+The biggest milestone is narrowing down my concept into translating Boolean Logic into Minecraft circuitry.
 
 ## Questions
 
@@ -15,11 +11,21 @@ design process.
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+Per Prof Ben's request, I am focusing on the IR stage before moving onto the other aspects. The IR stage is coming up with
+a way to translate boolean logic to function calls for Minecraft to evaluate, which shouldn't be hard. The difficulty will
+be in the IR -> Minecraft stage.
+
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+If you have any ideas on the IR->Minecraft side, that would be fantastic, but seeing as I don't have a clear idea of how it
+will work, I am not sure if you can help with that. Honestly, I need to sit down with the problem to find questions, so easy
+critique for you!
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
+0 hours... :(
 
 ## Post-critique summary
 
