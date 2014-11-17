@@ -2,12 +2,8 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+So far, I have the conversion between boolean logic and executable functions nearly done. There are a few
+thigns I want to check with Prof Ben about, but it is looking good so far.
 
 ## Questions
 
@@ -15,11 +11,19 @@ design process.
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+At the moment, the most pressing issue is order of precedence. I need to make sure my code will
+evaluate statements such as xvy^z correctly (btw, it is xv(y^z) ). Also, I need to think of a 
+way to allow grouping by parens as a form of precedence to allow for (xvy)^z.
+
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+If you have any advice on the above, great, but no specific questions.
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
+This week, I spent a total of 3 hours outside of class working on the DSL. About 1 hour was getting Eclipse to be happy, the other two was spent actually coding.
 
 ## Post-critique summary
 
