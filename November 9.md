@@ -29,4 +29,10 @@ team, how did you share the labor?**
 
 ## Post-critique summary
 
+The critique gives useful advice for how best to format the scala functions to best translate to Minecraft gates. I am not
+at that stage yet, but it will certainly be a good guide.
+
 ## Post-critique reflection
+
+The idea of having pre-composed Minecraft gates that get placed into the world was my idea as well, so it seems like I am
+heading in a good direction. Onwards to the next week!
