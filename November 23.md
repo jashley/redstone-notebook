@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 This week, I finished up the parsing and internal representation portions of the project.
 I have a way to translate text input of the form "x^yvz" and transform it into an AST.
 The semantics portion of this is in the works, but is the most significant part, as it
