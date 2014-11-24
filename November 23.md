@@ -28,8 +28,8 @@ command block only accepts one command, I really need a way to do this all in a 
 Though it is <a href="https://www.youtube.com/watch?v=mGtGmmcdQZU">possible</a> to do this,
 it is incredibly complex and I have deemed this too complex even with the benefit of usability.
 
-What I have actually decided to go with is a Python package called pymcedit (there's a Python
-package for everythin). Essentially, this is a way to execute commands without needing to
+What I have actually decided to go with is a Python package called pymclevel (there's a Python
+package for everything). Essentially, this is a way to execute commands without needing to
 use command blocks in-game. This is a nice middle-ground between ease of use for the user (no
 need to use MCEdit) and ease of programming for me (click the link above). However, this does
 require the user to download and install this code, which means a README.txt with the project
