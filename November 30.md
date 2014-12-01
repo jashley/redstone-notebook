@@ -4,7 +4,8 @@
 
 Oh man, so much progress! I went from having a vague idea of what programs I would use to a working program!
 I just put the code up, which includes a few shell scripts, the python code that does everything, and a python package
-to handle placing blocks in minecraft.
+to handle placing blocks in minecraft. <a href="http://i.imgur.com/hZR5lsf.png">Here</a> is an image of a circuit. The
+inputs are at the top and the output is the tiny red thing closest to the bottom. It definitely needs prettying.
 
 ## Questions
 
