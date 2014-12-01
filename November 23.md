@@ -66,5 +66,11 @@ been thinking off and on about how to deal with large Boolean expressions, but p
 more than an hour of that kind of sheer brainstorming.
 
 ## Post-critique summary
+A lot of useful suggestions here. Apparently, translating from Scala to Python (really any language to any other) is quite
+difficult. Perhaps this is more trouble than it is worth. Also, the problem of wire-crossing appears to be NP-Hard, which
+might make the implementation difficult.
 
 ## Post-critique reflection
+Thank you for the feedback! The info is well-received. I am glad that I figured out the difficulties of Scala->Python before
+I got too far into it. I talked to Alejandro, and I am going to try using pyPEG to do all my parsing in Python, which should
+work really well. 
