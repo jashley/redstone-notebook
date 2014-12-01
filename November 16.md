@@ -26,5 +26,8 @@ team, how did you share the labor?**
 This week, I spent a total of 3 hours outside of class working on the DSL. About 1 hour was getting Eclipse to be happy, the other two was spent actually coding.
 
 ## Post-critique summary
+Those are some really good ideas. I know that this will become a tree, it is just coming up with how to tree-ify programmatically that will be difficult.
 
 ## Post-critique reflection
+At this point, I have ideas using a program called pymclevel for constructing the stuff in Minecraft. The parsing problem
+should be easy to figure out in Scala.
